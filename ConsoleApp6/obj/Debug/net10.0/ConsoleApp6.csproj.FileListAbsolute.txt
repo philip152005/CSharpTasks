@@ -1,0 +1,15 @@
+/workspaces/CSharpTasks/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6
+/workspaces/CSharpTasks/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.deps.json
+/workspaces/CSharpTasks/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.runtimeconfig.json
+/workspaces/CSharpTasks/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.dll
+/workspaces/CSharpTasks/ConsoleApp6/bin/Debug/net10.0/ConsoleApp6.pdb
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfoInputs.cache
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.AssemblyInfo.cs
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.csproj.CoreCompileInputs.cache
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.sourcelink.json
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.dll
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/refint/ConsoleApp6.dll
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.pdb
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ConsoleApp6.genruntimeconfig.cache
+/workspaces/CSharpTasks/ConsoleApp6/obj/Debug/net10.0/ref/ConsoleApp6.dll
