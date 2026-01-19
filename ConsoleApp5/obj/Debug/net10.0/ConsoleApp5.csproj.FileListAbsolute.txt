@@ -1,0 +1,15 @@
+/workspaces/CSharpTasks/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5
+/workspaces/CSharpTasks/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.deps.json
+/workspaces/CSharpTasks/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.runtimeconfig.json
+/workspaces/CSharpTasks/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.dll
+/workspaces/CSharpTasks/ConsoleApp5/bin/Debug/net10.0/ConsoleApp5.pdb
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfoInputs.cache
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.AssemblyInfo.cs
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.csproj.CoreCompileInputs.cache
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.sourcelink.json
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.dll
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/refint/ConsoleApp5.dll
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.pdb
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ConsoleApp5.genruntimeconfig.cache
+/workspaces/CSharpTasks/ConsoleApp5/obj/Debug/net10.0/ref/ConsoleApp5.dll
